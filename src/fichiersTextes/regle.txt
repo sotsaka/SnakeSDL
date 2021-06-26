@@ -1,0 +1,15 @@
+ 
+Les règles du jeux sont simples: 
+
+Vous dirigez avec les flèches du clavier un serpent qui évolue au sein d'une map rectangulaire. 
+Votre objectif est de marquer un maximum de points sans mourir. 
+Pour cela il vous faut manger des pommes qui apparaissent sur la map au fur et à mesure du jeu. 
+
+Quand vous mangez une pomme votre serpent grandit. Il devient donc de plus en plus dur de le diriger.
+
+Attention à ne pas vous mordre la queue ou à rentrer dans un mur car sinon c’est la mort assurée. 
+Des obstacles vont également apparaître sur la map. Si vous en rencontré un alors votre serpent diminue de taille et vous perdez donc des points.   
+
+A VOUS DE JOUER !!
+
+PRESS ENTER TO RETURN TO THE MAIN MENU

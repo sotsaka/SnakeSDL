@@ -1,0 +1,9 @@
+*.pdf
+*.toc
+*.log
+*.aux
+*.out
+*.backup
+*.o
+*.dll
+*.ppu
